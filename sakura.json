@@ -1,0 +1,30 @@
+{
+    "url": "https://github.com/sakura-editor/sakura/releases/download/v2.3.2.0/sakura2-3-2-0.zip",
+    "env_add_path": "sakura2-3-0",
+    "architecture": {
+        "64bit": {
+            "bin": [
+                "sakura-2-3-0\\sakura.exe",
+                [
+                    "sakura2-3-0\\sakura.exe",
+                    "Sakura Editor"
+                ]
+            ],
+            "shortcuts": [
+                [
+                    "sakura-2-3-0/sakura.exe",
+                    "Sakura Editor"
+                ]
+            ]
+        },
+        "32bit": {
+            "bin": "sakura2-3-0\\sakura.exe",
+            "shortcuts": [
+                [
+                    "sakura2-3-0/sakura.exe",
+                    "Sakura Editor"
+                ]
+            ]
+        }
+    }
+}
