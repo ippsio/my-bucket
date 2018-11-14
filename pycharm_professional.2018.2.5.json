@@ -14,7 +14,7 @@
             "shortcuts": [
                 [
                     "bin/pycharm64.exe",
-                    "IDEA PyCharm Community"
+                    "IDEA PyCharm Professional"
                 ]
             ]
         },
@@ -23,7 +23,7 @@
             "shortcuts": [
                 [
                     "bin/pycharm.exe",
-                    "IDEA PyCharm Community"
+                    "IDEA PyCharm Professional"
                 ]
             ]
         }
