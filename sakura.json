@@ -5,24 +5,24 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "sakura.exe",
+                "sakura-2-3-2-0\\sakura.exe",
                 [
-                    "sakura.exe",
+                    "sakura-2-3-2-0\\sakura.exe",
                     "Sakura Editor"
                 ]
             ],
             "shortcuts": [
                 [
-                    "sakura.exe",
+                    "sakura-2-3-2-0\\sakura.exe",
                     "Sakura Editor"
                 ]
             ]
         },
         "32bit": {
-            "bin": "sakura.exe",
+            "bin": "sakura-2-3-2-0\\sakura.exe",
             "shortcuts": [
                 [
-                    "sakura.exe",
+                    "sakura-2-3-2-0\\sakura.exe",
                     "Sakura Editor"
                 ]
             ]
